@@ -1,4 +1,3 @@
-# 🧪 PyTorch & Keras Learning Lab
-
-Collection of practice scripts, model baselines, and experimental code written while learning PyTorch and Keras. 
-Includes implementations adapted from tutorials, research papers, and personal practice.
+#🤖PyTorch and Keras Learning Lab 
+A collection of scripts , with practice scripts, model baselines, and experimental code written during learning PyTorch and Keras. 
+Adapted from tutorials and personal practice. 
